@@ -19,7 +19,7 @@ more platforms to jump on, introducing game rounds (which become faster and fast
 - **Jump buffering:** improves the jump responsiveness.
 - **Rounds system:** the entire game is regulated by continuous rounds that become faster and faster as the player complete them collecting all the coins placed on the platforms. Each round is made of an indefinite number of waves.
 - **Rolls system:** every wave starts when a giant colored cube rolls. The roll determines a color that is the "safe" one for the wave.
-- **Platforms system:** the game area contains 30 flying colored separated platforms which are disposed forming a matrix. Before the cube rolls at the beginning of each wave, colors from a set of 6 (one for each cube's face) are drawn and assigned
+- **Platforms system:** the game arena contains 30 flying colored separated platforms which are disposed forming a matrix. Before the cube rolls at the beginning of each wave, colors from a set of 6 (one for each cube's face) are drawn and assigned
 to all the platforms. An algorithm ensures that for each row of platforms contains all different colors in order to keep the color's distribution as balanced as possible. After the cube rolls, there are a few seconds before the platform not matching
 the "safe" color disappear. When the next wave starts, all the platforms become visible again.
 - **Points system:** a set of 29 coins is distributed across the platforms each round. The player has to collect 116 coins (4 rounds in total) to finish the game "the standard way".
