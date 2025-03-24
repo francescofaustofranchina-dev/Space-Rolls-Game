@@ -54,7 +54,7 @@ I tested the prototype on a Windows machine. It runs without any problem and the
 ## ✏️ My role in the project
 I've dove the entire project from the ground up.
 ## 🖥️ How to install the game
-1. Download the "Game" folder you find in this repository.
+1. Download the "build" folder you find in this repository.
 2. Start the .exe file.
 ## 📅 Future plans
 I hope one day I'll be able to finish this project the way I intended and, who knows, maybe I'll use other ideas I saved for a sequel...
